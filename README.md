@@ -16,11 +16,17 @@ To use mosiac grade checkup:
 1. Download the project and open the fetch.py file in your text editior of choice. Edit the username, password. 
 2. Edit the chromedriver path as noted in the fetch.py file. Make sure to include chromedriver.exe at the end of the path, then save your changes.
 3. Run the main.py file and you should see the following:
-![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Homescreen_v01.png?raw=true)
+
+![What is this](img/Homescreen_v01.png | width = 100)
+<!-- ![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Homescreen_v01.png?raw=true) -->
 4. Press continue then select one option from the tickboxes shown:
-![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Mainscreen_v01.png?raw=true)
+
+![What is this](img/Mainscreen_v01.png | width = 100)
+<!-- ![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Mainscreen_v01.png?raw=true) -->
 5. Wait for the driver to run in the background and watch the grades come in! (on a good day it takes about 10 seconds, on a fast computer and internet connection max 5 seconds)
-![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Results_v01.png?raw=true)
+
+![What is this](img/Results_v01.png | width = 100)
+<!-- ![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Results_v01.png?raw=true) -->
 
 ### Credits:
 
