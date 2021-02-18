@@ -12,14 +12,15 @@ class Home:
         self.screens = screens
 
     def homeDisplay(self):
-        self.homemsg1 = Label(self.contentFrame, text="Hello! Thanks for downloading Mosaic Grade Checkup. \nIf you have already been through this intro you can skip it now,\n if not please press the continue intro button.")
-        self.homemsg1.grid(row=0, padx=20)
+        # self.homemsg1 = Label(self.contentFrame, text="Hello! Thanks for downloading Mosaic Grade Checkup. \nIf you have already been through this intro you can skip it now,\n if not please press the continue intro button.")
+        self.homemsg1 = Label(self.contentFrame, text="Hello! Thanks for downloading Mosaic Grade Checkup. \nPlease press the continue intro button.")
+        self.homemsg1.grid(row=0, padx=30)
 
         # self.contBtn = Button(self.contentFrame, text = "Continue Intro", command = lambda: self.intro())
         # self.contBtn.grid(row=1, column=0)
 
-        self.skipBtn = Button(self.contentFrame, text="Skip", command = lambda: self.fetchGrades())
-        self.skipBtn.grid(row=2, column=0)
+        self.skipBtn = Button(self.contentFrame, text="Continue", command = lambda: self.fetchGrades())
+        self.skipBtn.grid(row=3, column=0)
         
         
 
@@ -71,7 +72,7 @@ class Home:
 
     def fetchGrades(self):
         self.removeContent()
-        self.fetchMsg = Label(self.contentFrame, text="IMPORTANT!! Before continuing please enter your MacID \nand Password in the fetch.py file and enter the path to your chrome driver\n then restart the app. \n\nWhich term would you like to fetch?")
+        self.fetchMsg = Label(self.contentFrame, text="IMPORTANT!! Before continuing please enter your \nMacID and Password in the fetch.py file\nThen enter the path to your chrome driver\n then restart the app. \n\nWhich term would you like to fetch?")
         self.fetchMsg.grid(row=0, padx=20)
         # Options here
 
