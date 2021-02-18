@@ -18,15 +18,15 @@ To use mosiac grade checkup:
 3. Run the main.py file and you should see the following:  
 
 <!-- ![What is this](img/Homescreen_v01.png | width = 100) -->
-![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Homescreen_v01.png?raw=true | width = 100)
+![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Homescreen_v01.png?raw=true?width=100)  
 4. Press continue then select one option from the tickboxes shown:  
 
 <!-- ![What is this](img/Mainscreen_v01.png | width = 100) -->
-![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Mainscreen_v01.png?raw=true | width = 100)
+![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Mainscreen_v01.png?raw=true?width=100)  
 5. Wait for the driver to run in the background and watch the grades come in! (on a good day it takes about 10 seconds, on a fast computer and internet connection max 5 seconds)  
 
 <!-- ![What is this](img/Results_v01.png | width = 100) -->
-![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Results_v01.png?raw=true | width = 100) 
+![alt text](https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Results_v01.png?raw=true?width=100)
 
 ### Credits:
 
