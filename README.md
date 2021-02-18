@@ -28,6 +28,9 @@ To use mosiac grade checkup:
 <!-- ![What is this](img/Results_v01.png | width = 100) -->
 <img src="https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Results_v01.png" width=300>
 
+### Notes:  
+I created a batch `.bat` file for myself, to lauch the program quickly, I recommend doing this as well.
+
 ### Credits:
 
 Created by Oliver Foote  
