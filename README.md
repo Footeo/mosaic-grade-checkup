@@ -13,8 +13,8 @@ To use mosiac grade checkup:
 
 ### Usage:
 
-1. Download the project and open the fetch.py file in your text editior of choice. Edit the username, password. 
-2. Edit the chromedriver path as noted in the fetch.py file. Make sure to include chromedriver.exe at the end of the path, then save your changes.
+1. Download the project and open the `fetch.py` file in your text editior of choice. *Edit the username, password.*
+2. *Edit the chromedriver path* as noted in the fetch.py file. Make sure to include chromedriver.exe at the end of the path, then save your changes.
 3. Run the main.py file and you should see the following:  
 
 <!-- ![What is this](img/Homescreen_v01.png | width = 100) -->
