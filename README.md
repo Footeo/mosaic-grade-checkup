@@ -6,7 +6,7 @@ Fetches grades quickly from McMaster University Mosaic student portal
 
 To use mosiac grade checkup:
 1. You must have Python installed (at least 3.7.3).
-2. You must install the selenium web driver using Python installer. You can use the command below to install it.
+2. You must install the selenium web driver library using Python installer. You can use the command below to install it.
 `python -m pip install selenium`
 3. You must install chromium web driver which can be found here (any version should work).
 `https://chromedriver.chromium.org/downloads`
