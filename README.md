@@ -30,7 +30,7 @@ To use mosiac grade checkup:
 
 ### Notes:  
 I created a batch `.bat` file for myself, to lauch the program quickly, I recommend doing this as well.  
-<a src="https://youtu.be/yZNswpQS0bQ">YouTube Video Showcase/Tutorial</a>
+YouTube Video Showcase/Tutorial: (https://youtu.be/yZNswpQS0bQ)
 
 ### Credits:
 
