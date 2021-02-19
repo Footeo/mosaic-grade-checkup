@@ -39,7 +39,7 @@ def getGrades(Current, Previous):
     driver = webdriver.Chrome(executable_path=chromeDriverPath, chrome_options=options)
     
     # Development Driver
-    # driver = webdriver.Chrome("C:/Users/olive/OneDrive/Documents/Code (SE)/shopbot/chromedriver.exe")
+    # driver = webdriver.Chrome(chromeDriverPath)
     
     # Get mosaic webpage
     driver.get('https://epprd.mcmaster.ca/psp/prepprd/?cmd=login')
@@ -122,13 +122,6 @@ def getGrades(Current, Previous):
 
     return grade_msg
     
-
-    #\/ this one sends emails
-    # alert("Mosaic Grade Checkup", grade_msg, "footeo@mcmaster.ca")
-
-    # \/ this one sends text messages
-    # text the number 4000, with the email mosaicgradecheckup@gmail.com and a message. Then it should work.
-    # alert("Mosaic Grade Checkup", grade_msg, "6472261465@txt.freedommobile.ca")
 
 # Button function
 def clickButton(xpath ,driver):
