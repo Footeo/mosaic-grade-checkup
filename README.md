@@ -29,7 +29,8 @@ To use mosiac grade checkup:
 <img src="https://github.com/Footeo/mosaic-grade-checkup/blob/main/img/Results_v01.png" width=300>
 
 ### Notes:  
-I created a batch `.bat` file for myself, to lauch the program quickly, I recommend doing this as well.
+I created a batch `.bat` file for myself, to lauch the program quickly, I recommend doing this as well.  
+<a src="https://youtu.be/yZNswpQS0bQ">YouTube Video Showcase/Tutorial</a>
 
 ### Credits:
 
